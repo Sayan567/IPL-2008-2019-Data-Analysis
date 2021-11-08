@@ -1,4 +1,4 @@
-# IPL-2008-2020-Data-Analysis
+# IPL-2008-2019-Data-Analysis
 
 Data Analysis with IPL match-by-match dataset from the seasons 2008 to 2020.
 
