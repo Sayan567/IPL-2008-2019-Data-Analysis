@@ -1,10 +1,10 @@
 # IPL-2008-2020-Data-Analysis
 
-Data Analysis with IPL match-by-match dataset from the seasons 2008 to 2019.
+Data Analysis with IPL match-by-match dataset from the seasons 2008 to 2020.
 
 Dataset has been downloaded from Kaggle and it can be found here: https://www.kaggle.com/nowke9/ipldata.
 
-The dataset contains two files: deliveries.csv and matches.csv. The file used for this analysis is matches.csv.
+The dataset contains two files: IPL Ball-by-Ball 2008-2020.csv and IPL Matches 2008-2020.csv. The file used for this analysis is IPL Matches 2008-202.csv.
 
 Things analysed:
 
